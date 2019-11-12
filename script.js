@@ -3,4 +3,4 @@ const object = {
     name: 'sally'
 }
 
-object.name
+object.name();
